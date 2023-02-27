@@ -19,7 +19,7 @@ Ismael Barbosa da Silva - 0030482211030
 
 <p text-align: justify>
 	<p>
-	O projeto Fornt Gate será um conjunto de micros serviços que realizarão a gestão de controle de acesso dos seguimentos de portaria e estacionamento, sendo a orgânica ou eletrônica. Desses seguimentos, o projeto terá maior ênfase no sistema de estacionamento e portaria, sendo esse um nicho de mercado onde não há a presença física de um operador de controle de acesso no cliente.
+	O projeto Front Gate será um conjunto de micros serviços que realizarão a gestão de controle de acesso dos seguimentos de portaria e estacionamento, sendo a orgânica ou eletrônica. Desses seguimentos, o projeto terá maior ênfase no sistema de estacionamento e portaria, sendo esse um nicho de mercado onde não há a presença física de um operador de controle de acesso no cliente.
 
 #### Os objetivos iniciais são:
 * Controle de Entrada de Saida de Veículo;
