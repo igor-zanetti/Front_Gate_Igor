@@ -35,7 +35,7 @@ Ismael Barbosa da Silva - 0030482211030
 	Já o módulo de acesso de alunos é responsável por controlar o fluxo de estudantes que entram e saem da instituição. Esse módulo pode ser integrado a um sistema de identificação biométrica, como uma impressão digital ou reconhecimento facial, permitindo que a entrada dos alunos seja feita de forma rápida e segura. Além disso, o sistema pode ser programado para enviar alertas para os responsáveis dos alunos, caso algum estudante não tenha chegado à escola dentro do horário previsto.
 	<p>
 	
-	Outro módulo importante da aplicação é o de gestão de segurança. Esse módulo permite monitorar a movimentação de pessoas e veículos na instituição, identificando possíveis ameaças e agindo preventivamente. Por meio desse módulo, será possível criar áreas restritas na instituição, permitindo o acesso apenas a pessoas autorizadas.
+	Outro módulo importante da aplicação é o de gestão de segurança. Esse módulo permite monitorar a movimentação de pessoas e veículos na instituição, identificando possíveis ameaças e agindo preventivamente. Por meio desse módulo, é possível criar áreas restritas na instituição, permitindo o acesso apenas a pessoas autorizadas.
 	<p>
 	
 	Além desses módulos, a aplicação de controle de veículos e acesso de alunos também pode contar com funcionalidades adicionais, como um sistema de reservas de vagas no estacionamento e um sistema de comunicação integrado, permitindo que os responsáveis dos alunos sejam informados sobre atividades e eventos na instituição.
