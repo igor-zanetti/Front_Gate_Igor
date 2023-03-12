@@ -51,3 +51,11 @@ Ismael Barbosa da Silva - 0030482211030
 - Figma;
 - Visual Studio Code;
 - Versionamento de código pelo GitHub;
+
+# Linguagens:
+
+- C#
+- Java
+- Html/CSS
+- Javascript
+
