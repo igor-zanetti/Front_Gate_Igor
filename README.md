@@ -45,17 +45,19 @@ Ismael Barbosa da Silva - 0030482211030
 	<p>
 <p>
 
+# Front-End :
+
+- C#
+- Java
+
+# Back-End :
+
+- Html/CSS
+- Javascript
+
 # Tecnologias e ferramentas utilizadas para o desenvolvimento do sistema:
 
 - MySQL;
 - Figma;
 - Visual Studio Code;
 - Versionamento de código pelo GitHub;
-
-# Linguagens:
-
-- C#
-- Java
-- Html/CSS
-- Javascript
-
