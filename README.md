@@ -45,12 +45,12 @@ Ismael Barbosa da Silva - 0030482211030
 	<p>
 <p>
 
-# Front-End :
+# Back-End :
 
 - C#
 - Java
 
-# Back-End :
+# Front-End :
 
 - Html/CSS
 - Javascript
