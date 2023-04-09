@@ -56,6 +56,6 @@ Ismael Barbosa da Silva - 0030482211030
 - Versionamento de código pelo GitHub;
 
 <h3>Diagrama de Caso de Uso </h3>
-UML: https://lucid.app/lucidchart/832e30ae-d4f3-4019-85a2-4a5b0d3ec4a8/edit?viewport_loc=-402%2C-21%2C3330%2C1437%2CGv_M5raR97bQ&invitationId=inv_e8a19ab3-46d4-4a32-be5a-0c9bc6d93c30
+https://lucid.app/lucidchart/832e30ae-d4f3-4019-85a2-4a5b0d3ec4a8/edit?viewport_loc=-402%2C-21%2C3330%2C1437%2CGv_M5raR97bQ&invitationId=inv_e8a19ab3-46d4-4a32-be5a-0c9bc6d93c30
 <h3> Documento do Caso de Uso </h3>
-Escrita UML:https://docs.google.com/document/d/1DUA9GibRGYjL8uRzdQnNW_IwKVfzhYOKjnEtLOFNBzM/edit?usp=sharing
+https://docs.google.com/document/d/1DUA9GibRGYjL8uRzdQnNW_IwKVfzhYOKjnEtLOFNBzM/edit?usp=sharing
