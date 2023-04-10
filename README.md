@@ -19,7 +19,7 @@ Ismael Barbosa da Silva - 0030482211030
 
 <p text-align: justify>
 	<p>
-	O projeto Front Gate será um conjunto de micros serviços que realizarão a gestão de controle de acesso do seguimento de segurança, sendo a orgânica ou eletrônica. Desse seguimento, o projeto terá maior ênfase na gestão de entrada e saida, sendo esse um nicho de mercado onde não há a presença física de um operador de controle de acesso no cliente.
+	O projeto Front Gate será um conjunto de micros serviços que realizarão a gestão de controle de acesso do segmento de segurança, sendo a orgânica ou eletrônica. Desse segmento, o projeto terá maior ênfase na gestão de entrada e saida, sendo esse um nicho de mercado onde não há a presença física de um operador de controle de acesso no cliente.
 
 #### Os objetivos iniciais são:
 * Controle de Entrada de Saida de Veículo;
