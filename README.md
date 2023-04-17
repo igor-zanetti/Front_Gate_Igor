@@ -40,12 +40,12 @@ Ismael Barbosa da Silva - 0030482211030
 
 # Back-End :
 
-- C#
-- Javascript
+- C# / ASP.NET
 
 # Front-End :
 
 - Html/CSS
+- Javascript
 
 # Tecnologias e ferramentas utilizadas para o desenvolvimento do sistema:
 
