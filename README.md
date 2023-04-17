@@ -38,16 +38,11 @@ Ismael Barbosa da Silva - 0030482211030
 	<p>
 <p>
 
-# Back-End :
+# Tecnologias a serem utilizadas
 
-- C# / ASP.NET
+- C# / ASP.NET (MVC 5)
 
-# Front-End :
-
-- Html/CSS
-- Javascript
-
-# Tecnologias e ferramentas utilizadas para o desenvolvimento do sistema:
+# Ferramentas utilizadas para o desenvolvimento do sistema:
 
 - MySQL;
 - Figma;
