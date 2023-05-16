@@ -51,5 +51,5 @@ https://docs.google.com/document/d/1hIbFVQhAbtq05Au_HBgyH2KduphA6jODgu93OtJXW0Y/
 <h3> Jornada do Usuário <h3>
 (https://github.com/igor-zanetti/Front_Gate_Igor/assets/110908223/fc8c6059-f67e-4c51-882a-67d96478b68b)
 <h3> Modelo Conceitual <h3>
-
+https://lucid.app/lucidchart/aa8d0572-d718-447b-84df-6f6bd657dba8/edit?page=HWEp-vi-RSFO&invitationId=inv_01a4a092-b7e4-4600-9a66-3dc6fee84c0c#
 	
