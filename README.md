@@ -50,4 +50,5 @@ https://docs.google.com/document/d/1DUA9GibRGYjL8uRzdQnNW_IwKVfzhYOKjnEtLOFNBzM/
 <h3> Modelo de negócio <h3>
 https://docs.google.com/document/d/1hIbFVQhAbtq05Au_HBgyH2KduphA6jODgu93OtJXW0Y/edit
 <h3> Jornada do Usuário <h3>
-https://www.canva.com/design/DAFh5Hi5O9w/2nEqO-lPA_FLkgo_qNJAgQ/edit?utm_content=DAFh5Hi5O9w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+"C:\Users\Igor\Documents\jornada do usuario.pptx"
+	
