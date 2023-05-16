@@ -43,7 +43,7 @@ Igor Zanetti Domotor - 0030482211042
 - Visual Studio Code;
 - Versionamento de código pelo GitHub;
 
-<h3> Diagrama de Caso de Uso </h3>
+![image](https://github.com/igor-zanetti/Front_Gate_Igor/assets/110908223/bd89ce11-1895-4524-96bc-4a76414253de)
 https://lucid.app/lucidchart/832e30ae-d4f3-4019-85a2-4a5b0d3ec4a8/edit?viewport_loc=-402%2C-21%2C3330%2C1437%2CGv_M5raR97bQ&invitationId=inv_e8a19ab3-46d4-4a32-be5a-0c9bc6d93c30
 <h3> Documento do Caso de Uso </h3>
 https://docs.google.com/document/d/1DUA9GibRGYjL8uRzdQnNW_IwKVfzhYOKjnEtLOFNBzM/edit?usp=sharing
@@ -51,5 +51,6 @@ https://docs.google.com/document/d/1DUA9GibRGYjL8uRzdQnNW_IwKVfzhYOKjnEtLOFNBzM/
 https://docs.google.com/document/d/1hIbFVQhAbtq05Au_HBgyH2KduphA6jODgu93OtJXW0Y/edit
 <h3> Jornada do Usuário <h3>
 (https://github.com/igor-zanetti/Front_Gate_Igor/assets/110908223/fc8c6059-f67e-4c51-882a-67d96478b68b)
+<h3> Modelo Conceitual <h3>
 
 	
