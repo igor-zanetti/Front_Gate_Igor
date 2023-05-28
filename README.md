@@ -49,7 +49,8 @@ https://docs.google.com/document/d/1DUA9GibRGYjL8uRzdQnNW_IwKVfzhYOKjnEtLOFNBzM/
 <h3> Modelo de negócio <h3>
 https://docs.google.com/document/d/1hIbFVQhAbtq05Au_HBgyH2KduphA6jODgu93OtJXW0Y/edit
 <h3> Jornada do Usuário <h3>
-"C:\Users\Igor\Documents\jornada do usuario.pptx"
+
 <h3> Modelo Conceitual <h3>
-https://lucid.app/lucidchart/aa8d0572-d718-447b-84df-6f6bd657dba8/edit?page=HWEp-vi-RSFO&invitationId=inv_01a4a092-b7e4-4600-9a66-3dc6fee84c0c#
+https://lucid.app/lucidchart/aa8d0572[Uploading jornada do usuario.pptx…]()
+-d718-447b-84df-6f6bd657dba8/edit?page=HWEp-vi-RSFO&invitationId=inv_01a4a092-b7e4-4600-9a66-3dc6fee84c0c#
 	
