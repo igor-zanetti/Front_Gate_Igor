@@ -48,9 +48,10 @@ https://lucid.app/lucidchart/832e30ae-d4f3-4019-85a2-4a5b0d3ec4a8/edit?viewport_
 https://docs.google.com/document/d/1DUA9GibRGYjL8uRzdQnNW_IwKVfzhYOKjnEtLOFNBzM/edit?usp=sharing
 <h3> Modelo de negócio <h3>
 https://docs.google.com/document/d/1hIbFVQhAbtq05Au_HBgyH2KduphA6jODgu93OtJXW0Y/edit
+
 <h3> Jornada do Usuário <h3>
+(https://github.com/igor-zanetti/Front_Gate_Igor/assets/110908223/7400a4d7-73fe-4edd-89bc-405cfc1bc8f6)
 
 <h3> Modelo Conceitual <h3>
-https://lucid.app/lucidchart/aa8d0572[Uploading jornada do usuario.pptx…]()
--d718-447b-84df-6f6bd657dba8/edit?page=HWEp-vi-RSFO&invitationId=inv_01a4a092-b7e4-4600-9a66-3dc6fee84c0c#
+https://lucid.app/lucidchart/aa8d0572-d718-447b-84df-6f6bd657dba8/edit?invitationId=inv_01a4a092-b7e4-4600-9a66-3dc6fee84c0c&page=HWEp-vi-RSFO#
 	
