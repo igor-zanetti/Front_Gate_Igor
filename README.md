@@ -56,4 +56,4 @@ https://docs.google.com/document/d/1hIbFVQhAbtq05Au_HBgyH2KduphA6jODgu93OtJXW0Y/
 https://lucid.app/lucidchart/aa8d0572-d718-447b-84df-6f6bd657dba8/edit?invitationId=inv_01a4a092-b7e4-4600-9a66-3dc6fee84c0c&page=HWEp-vi-RSFO#
 	
 <h3> Documento de Requisitos <h3>
-
+https://docs.google.com/document/d/1HvKJK5fc6KcA6kKOQHrfp7_kDoYiAAaYI22wY4_MIns/edit
