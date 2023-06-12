@@ -34,6 +34,7 @@ Igor Zanetti Domotor - 0030482211042
 # Tecnologias a serem utilizadas
 
 - C# / ASP.NET (MVC 5)
+- Banco de dados SQL
 
 # Ferramentas utilizadas para o desenvolvimento do sistema:
 
