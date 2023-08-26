@@ -19,7 +19,7 @@ Igor Zanetti Domotor - 0030482211042
 * Controle de Entrada e Saida de Pessoas;
 
     <p>
-	Uma aplicação de controle de veículos e acesso de alunos é uma solução tecnológica que permite gerenciar de forma eficiente o fluxo de veículos e a entrada de alunos em uma instituição de ensino. Esse tipo de aplicação é especialmente útil em instituições de grande porte, como universidades e escolas técnicas, onde a movimentação de pessoas e veículos é constante.
+	Uma aplicação de controle de veículos e acesso de alunos é uma solução tecnológica que permite gerenciar de forma eficiente o fluxo de veículos e a entrada de alunos em uma instituição de ensino. Esse tipo de aplicação é especialmente útil em instituições de grande porte, como universidades e escolas técnicas, onde a movimentação de pessoas e veículos é constante, e o público alvo é consequentemente as pessoas que frequentam esse lugar, sejam elas universitários, professores, funcionários e visitantes em geral.
 	<p>
 	
 	A aplicação é composta por diversos módulos, cada um responsável por uma tarefa específica. O módulo de controle de veículos, por exemplo, é responsável por gerenciar o acesso de carros e motos ao estacionamento da instituição. Esse módulo pode ser integrado a um sistema de reconhecimento de placas, permitindo que os veículos sejam identificados automaticamente ao entrar e sair do estacionamento. 
@@ -27,7 +27,7 @@ Igor Zanetti Domotor - 0030482211042
 	
 	Já o módulo de acesso de alunos é responsável por controlar o fluxo de estudantes que entram e saem da instituição. Esse módulo pode ser integrado a um sistema de reconhecimento facial, permitindo que a entrada dos alunos seja feita de forma rápida e segura. Além disso, o sistema pode ser programado para enviar alertas para os responsáveis dos alunos, caso algum estudante não tenha chegado à escola dentro do horário previsto.
 	<p>
-    Em resumo, uma aplicação de controle de veículos e acesso de alunos é uma solução tecnológica que permite gerenciar de forma eficiente o fluxo de pessoas e veículos em uma instituição de ensino. Essa aplicação é composta por diversos módulos, cada um responsável por uma tarefa específica, e pode contar com funcionalidades adicionais para melhorar a segurança e a comunicação na instituição. Com o uso dessa aplicação, é possível garantir um ambiente mais seguro e organizado para alunos, professores e funcionários.
+    Em resumo, uma aplicação de controle de veículos e acesso de alunos é uma solução tecnológica que permite gerenciar de forma eficiente o fluxo de pessoas e veículos em uma instituição de ensino. Essa aplicação é composta por diversos módulos, cada um responsável por uma tarefa específica, e pode contar com funcionalidades adicionais para melhorar a segurança e a comunicação na instituição. Com o uso dessa aplicação, é possível garantir um ambiente mais seguro e organizado para alunos, professores e funcionários.Enfim, vale constatar que a instituição pagaria uma taxa regular para continuar usando o software e receber atualizações e suporte contínuos.
 	<p>
 <p>
 
