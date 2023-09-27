@@ -10,7 +10,7 @@ Igor Zanetti Domotor - 0030482211042
 
 # Briefing Sistema Gestão de Controle <h1>
 
-## <h1 align="center"> Resumo:
+## Resumo: <h2>
 
 <p text-align: justify>
 	<p>
