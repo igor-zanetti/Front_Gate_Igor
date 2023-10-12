@@ -61,6 +61,7 @@ https://docs.google.com/document/d/1hIbFVQhAbtq05Au_HBgyH2KduphA6jODgu93OtJXW0Y/
 (https://github.com/igor-zanetti/Front_Gate_Igor/assets/110908223/289341e0-0886-46fc-99a1-63f864877b7a)
 
 <h3> Modelo Conceitual <h3>
+<img src="C:\Users\Igor\Pictures\Screenshots\Captura de tela 2023-10-12 140153.png">	
 https://lucid.app/lucidchart/aa8d0572-d718-447b-84df-6f6bd657dba8/edit?invitationId=inv_01a4a092-b7e4-4600-9a66-3dc6fee84c0c&page=HWEp-vi-RSFO#
 	
 <h3> Documento de Requisitos <h3>
