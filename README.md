@@ -14,25 +14,41 @@ Igor Zanetti Domotor - 0030482211042
 
 <p text-align: justify>
 	<p>
-	O projeto Front Gate será um conjunto de micros serviços que realizarão a gestão de controle de acesso do segmento de segurança, sendo a orgânica ou eletrônica. Desse segmento, o projeto terá maior ênfase na gestão de entrada e saida, sendo esse um nicho de mercado onde não há a presença física de um operador de controle de acesso no cliente.
+	Resumo: Sistema de Controle de Acesso - Projeto Front Gate
+O projeto "Front Gate" é uma iniciativa que visa aprimorar a gestão de controle de acesso em instituições de ensino, abrangendo tanto a segurança orgânica quanto a eletrônica. Neste contexto, o foco principal do projeto é otimizar os processos de entrada e saída, especialmente em locais onde não há a presença física de um operador de controle de acesso.
 
 #### Os objetivos iniciais são:
 * Controle de Entrada de Saida de Veículo;
 * Controle de Entrada e Saida de Pessoas;
 
     <p>
-	Uma aplicação de controle de veículos e acesso de alunos é uma solução tecnológica que permite gerenciar de forma eficiente o fluxo de veículos e a entrada de alunos em uma instituição de ensino. Esse tipo de aplicação é especialmente útil em instituições de grande porte, como universidades e escolas técnicas, onde a movimentação de pessoas e veículos é constante, e o público alvo é consequentemente as pessoas que frequentam esse lugar, sejam elas universitários, professores, funcionários e visitantes em geral.
-	<p>
+	Funcionalidades da Versão Inicial (MVP):
+
+O módulo de controle de veículos gerencia o acesso de carros e motos ao estacionamento da instituição, integrando-se a sistemas de reconhecimento de placas para identificação automática.
+O módulo de acesso de alunos controla o fluxo de estudantes que entram e saem da instituição, permitindo a entrada rápida e segura por meio de reconhecimento facial.
 	
-	A aplicação é composta por diversos módulos, cada um responsável por uma tarefa específica. O módulo de controle de veículos, por exemplo, é responsável por gerenciar o acesso de carros e motos ao estacionamento da instituição. Esse módulo pode ser integrado a um sistema de reconhecimento de placas, permitindo que os veículos sejam identificados automaticamente ao entrar e sair do estacionamento. 
+	Requisitos e Observações:
+
+O sistema visa substituir processos manuais demorados por soluções automatizadas, aumentando a eficiência do controle de acesso.
+Integra tecnologias avançadas, como reconhecimento de placas e facial, para aprimorar a segurança e reduzir riscos de acesso não autorizado.
+Contribui para a redução de congestionamentos em estacionamentos, melhorando a experiência dos alunos e funcionários.
+A instituição paga uma mensalidade para utilizar o software, recebendo atualizações e suporte contínuos.
 	<p>
-	
-	Já o módulo de acesso de alunos é responsável por controlar o fluxo de estudantes que entram e saem da instituição. Esse módulo pode ser integrado a um sistema de reconhecimento facial, permitindo que a entrada dos alunos seja feita de forma rápida e segura.O projeto "Front Gate" aborda uma série de dores comuns no segmento de controle de acesso e segurança em instituições de ensino, e oferece soluções tecnológicas para mitigar essas dores. Aqui estão as principais dores que o projeto resolve:
-        1)Ineficiência no Controle de Acesso: O projeto resolve o problema de ineficiência no controle de acesso de veículos e pessoas, substituindo processos manuais demorados por soluções automatizadas.
-        2)Segurança Aprimorada: Ao integrar tecnologias como reconhecimento de placas e reconhecimento facial, o projeto melhora significativamente a segurança, reduzindo o risco de acesso não autorizado.
-        3)Redução de Congestionamentos: O controle eficiente do acesso de veículos contribui para a redução de congestionamentos nos estacionamentos, melhorando a experiência dos alunos e funcionários.
-	<p>
-    Em resumo, uma aplicação de controle de veículos e acesso de alunos é uma solução tecnológica que permite gerenciar de forma eficiente o fluxo de pessoas e veículos em uma instituição de ensino. Essa aplicação é composta por diversos módulos, cada um responsável por uma tarefa específica, e pode contar com funcionalidades adicionais para melhorar a segurança e a comunicação na instituição. Com o uso dessa aplicação, é possível garantir um ambiente mais seguro e organizado para alunos, professores e funcionários.Enfim, vale constatar que a instituição pagaria uma taxa regular(mensalidade) para continuar usando o software e receber atualizações e suporte contínuos, para que assim os envolvidos possam manter o projeto em constante evolução e serem monetizados dessa maneira.
+	Perfis de Usuário:
+Operador:
+
+Realiza manutenção de registros de veículos e alunos.
+Pode autorizar ou negar acesso.
+Registra eventos e incidentes.
+Visualiza relatórios e histórico de acessos.
+Administrador:
+
+Possui todas as funcionalidades do operador.
+Realiza manutenção de usuários do sistema.
+Gerencia tipos de acesso.
+Mantém cadastro de áreas de acesso.
+Controla a manutenção dos dispositivos.
+O projeto "Front Gate" atende às demandas do setor de controle de acesso em instituições de ensino, oferecendo soluções tecnológicas que melhoram a segurança, a eficiência e a experiência dos usuários. Ao integrar inovações tecnológicas, automatiza processos e simplifica a gestão de acesso de veículos e pessoas, garantindo um ambiente mais seguro e organizado para alunos, professores e funcionários. A instituição se beneficia do serviço contínuo, com suporte e atualizações, mediante o pagamento de uma mensalidade.
 	<p>
 <p>
 
