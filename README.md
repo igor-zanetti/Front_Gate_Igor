@@ -22,11 +22,11 @@ O projeto "Front Gate" é uma iniciativa que visa aprimorar a gestão de control
 * Controle de Entrada e Saida de Pessoas;
 
     <p>
-	Funcionalidades da Versão Inicial (MVP):
+###Funcionalidades da Versão Inicial (MVP):
 
 O módulo de controle de veículos gerencia o acesso de carros e motos ao estacionamento da instituição, integrando-se a sistemas de reconhecimento de placas para identificação automática.
 O módulo de acesso de alunos controla o fluxo de estudantes que entram e saem da instituição, permitindo a entrada rápida e segura por meio de reconhecimento facial.
-	
+	<p>
 	Requisitos e Observações:
 
 O sistema visa substituir processos manuais demorados por soluções automatizadas, aumentando a eficiência do controle de acesso.
@@ -34,14 +34,16 @@ Integra tecnologias avançadas, como reconhecimento de placas e facial, para apr
 Contribui para a redução de congestionamentos em estacionamentos, melhorando a experiência dos alunos e funcionários.
 A instituição paga uma mensalidade para utilizar o software, recebendo atualizações e suporte contínuos.
 	<p>
-	Perfis de Usuário:
-Operador:
+Perfis de Usuário:
+
+##Operador:
 
 Realiza manutenção de registros de veículos e alunos.
 Pode autorizar ou negar acesso.
 Registra eventos e incidentes.
 Visualiza relatórios e histórico de acessos.
-Administrador:
+
+##Administrador:
 
 Possui todas as funcionalidades do operador.
 Realiza manutenção de usuários do sistema.
