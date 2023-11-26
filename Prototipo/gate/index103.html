@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Tabela Bootstrap</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+</head>
+<body style="background-color: #3498db; color: black;">
+  <div class="container" style="background-color: white; padding: 20px; border-radius: 10px; margin-top: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <h1 class="text-center mb-4">Relatório entrada e saída</h1>
+    <table class="table table-bordered table-striped">
+      <thead>
+        <tr>
+          <th>Data</th>
+          <th>Entrada</th>
+          <th>Saída</th>
+          <th>Motorista</th>
+          <th>Placa</th>
+          <th>Carro</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>03/08/2023</td>
+          <td>08:15</td>
+          <td>11:30</td>
+          <td>João da Silva</td>
+          <td>ABC-1234</td>
+          <td>Ford Fiesta</td>
+        </tr>
+        <tr>
+          <td>20/02/2023</td>
+          <td>08:00</td>
+          <td>13:05</td>
+          <td>Maria José</td>
+          <td>DEF-5678</td>
+          <td>Chevrolet Onix</td>
+        </tr>
+        <tr>
+          <td>20/10/2023</td>
+          <td>07:40</td>
+          <td>12:00</td>
+          <td>José Carlos</td>
+          <td>GHI-9012</td>
+          <td>Volkswagen Gol</td>
+        </tr>
+        <tr>
+          <td>24/11/2023</td>
+          <td>18:45</td>
+          <td>20:40</td>
+          <td>Ana Paula</td>
+          <td>JKL-3456</td>
+          <td>Toyota Corolla</td>
+        </tr>
+        <tr>
+          <td>25/11/2023</td>
+          <td>19:00</td>
+          <td>22:15</td>
+          <td>Pedro Henrique</td>
+          <td>MNO-7890</td>
+          <td>Honda Civic</td>
+        </tr>
+      </tbody>
+    </table>
+    <button class="btn btn-primary" onclick="gerarRelatorio()">Gerar Relatório</button>
+  </div>
+
+  <script>
+    function gerarRelatorio() {
+      // Lógica para gerar o relatório vai aqui
+      alert('Relatório gerado com sucesso!');
+    }
+  </script>
+</body>
+</html>

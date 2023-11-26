@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Cadastro de Veículo Visitante</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  <style>
+    body {
+      background-color: #3498db; /* Azul claro */
+    }
+
+    h1, h2 {
+      text-align: center;
+    }
+
+    .custom-container {
+      background-color: white;
+      padding: 20px;
+      border-radius: 10px;
+      margin-top: 20px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    input {
+      margin-bottom: 10px;
+    }
+
+    button {
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container custom-container">
+    <h1>Cadastro de Veículo Visitante</h1>
+    <hr>
+    <div class="row">
+      <div class="col-md-6">
+        <h2>Informações do Veículo</h2>
+        <ul class="list-unstyled">
+          <li>Modelo: <input type="text" class="form-control" value="Modelo do veículo"></li>
+          <li>Cor: <input type="text" class="form-control" value="Cor do veículo"></li>
+          <li>Placa: <input type="text" class="form-control" value="ABC1234"></li>
+          <li>Marca: <input type="text" class="form-control" value="Marca do veículo"></li>
+          <!-- Additional input fields -->
+          <li>Data da Visita: <input type="text" class="form-control" placeholder="Digite a data da visita"></li>
+          <li>Horário: <input type="text" class="form-control" placeholder="Digite o horário da visita"></li>
+          <li>Observação: <textarea class="form-control" rows="3" placeholder="Digite observações"></textarea></li>
+        </ul>
+        <button type="button" class="btn btn-success">Salvar</button>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col-md-12">
+        <a href="/" class="btn btn-primary">Voltar</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
